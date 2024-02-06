@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto (reconhecimento por voz)</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto desenvolvido durante o curso de Javascript da alura.</p>
+<p>Projeto desenvolvido durante o curso de Javascript da alura. Aplicação que replica o jogo do número secreto, mas com reconhecimento por voz para o usuário tentar adivinhar o número.</p>
 
 ## 🚀 Tecnologias
 <div>

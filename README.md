@@ -3,6 +3,8 @@
 <h2>🔖 Sobre</h2>
 <p>Projeto desenvolvido durante o curso de Javascript da alura. Aplicação que replica o jogo do número secreto, mas com reconhecimento por voz para o usuário tentar adivinhar o número.</p>
 
+[Acessar a página]( https://brunomartins.github.io/reconhecimento-por-voz/)
+
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
